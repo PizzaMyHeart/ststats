@@ -14,7 +14,7 @@ app = dash.Dash(__name__,
 
 app.title = 'ST Stats'
 
-df = pd.read_csv('./data/data.csv').drop('Unnamed: 0', axis=1)
+df = pd.read_csv('data/data.csv').drop('Unnamed: 0', axis=1)
 
 colours = {'background': '#05192d'}
 
