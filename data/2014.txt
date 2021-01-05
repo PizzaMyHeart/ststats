@@ -1,0 +1,90 @@
+﻿ACCS Emergency Medicine
+ST1
+ 759
+ 363
+ 2.1
+Anaesthetics (including ACCS Anaesthetics)
+CT1
+ 1262
+ 595
+ 2.1
+Broad Based Training 
+CT1
+ 258
+ 42
+ 6.1
+Cardiothoracic Surgery 
+ST1
+ 72
+ 7
+ 10.3
+Clinical Radiology
+ST1
+ 798
+ 227
+ 3.5
+Community Sexual and Reproductive Health
+ST1
+ 33
+ 7
+ 4.7
+Core Medical Training (including ACCS Acute Medicine)
+CT1
+ 3065
+ 1468
+ 2.1
+Core Psychiatry Training
+CT1
+ 643
+ 497
+ 1.3
+Core Surgical Training
+CT1
+ 1370
+ 625
+ 2.2
+General Practice
+ST1
+ 5477
+ 3391
+ 1.6
+Histopathology
+ST1
+ 165
+ 93
+ 1.8
+Medical Microbiology
+ST1
+ 50
+ 14
+ 3.6
+Neurosurgery
+ST1
+ 159
+ 24
+ 6.6
+Obstetrics and Gynaecology
+ST1
+ 583
+ 240
+ 2.4
+Ophthalmology
+ST1
+ 353
+ 82
+ 4.3
+Oral and Maxillo Facial Surgery 
+ST1
+ 87
+ 4
+ 21.8
+Paediatrics and Child Health
+ST1
+ 814
+ 435
+ 1.9
+Public Health
+ST1
+ 686
+ 78
+ 8.8

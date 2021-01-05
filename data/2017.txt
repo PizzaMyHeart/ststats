@@ -1,0 +1,360 @@
+﻿ACCS Emergency Medicine
+ST1
+ 675
+ 340
+ 1.99
+Anaesthetics (including ACCS Anaesthetics)
+ST1
+ 1296
+ 601
+ 2.16
+Cardiothoracic Surgery
+ST1
+ 64
+ 10
+ 6.40
+Clinical Radiology
+ST1
+ 1021
+ 267
+ 3.82
+Community Sexual and Reproductive Health
+ST1
+ 99
+ 4
+ 24.75
+Core Medical Training (including ACCS Acute Medicine)
+CT1
+ 2343
+ 1657
+ 1.41
+Core Psychiatry Training
+CT1
+ 623
+ 495
+ 1.26
+Core Surgical Training
+CT1
+ 1608
+ 629
+ 2.56
+General Practice
+ST1
+ 5097
+ 3857
+ 1.32
+Histopathology
+ST1
+ 174
+ 95
+ 1.83
+Neurosurgery
+ST1
+ 152
+ 29
+ 5.24
+Obstetrics and Gynaecology
+ST1
+ 555
+ 263
+ 2.11
+Ophthalmology
+ST1
+ 405
+ 77
+ 5.26
+Oral and Maxillo Facial Surgery
+ST1
+ 20
+ 8
+ 2.50
+Paediatrics
+ST1
+ 580
+ 437
+ 1.33
+Public Health Medicine
+ST1
+ 718
+ 77
+ 9.32
+Acute Internal Medicine
+ST3
+ 245
+ 125
+ 1.96
+Allergy
+ST3
+ 8
+ 3
+ 2.67
+Audiovestibular Medicine
+ST3
+ 9
+ 1
+ 9
+Cardiology
+ST3
+ 361
+ 136
+ 2.65
+Clinical Genetics
+ST3
+ 28
+ 12
+ 2.33
+Clinical Neurophysiology
+ST3
+ 17
+ 10
+ 1.70
+Clinical Oncology
+ST3
+ 115
+ 72
+ 1.60
+Clinical Pharmacology and Therapeutics
+ST3
+ 9
+ 15
+ 0.60
+Combined Infection Training
+ST3
+ 109
+ 53
+ 2.06
+Dermatology
+ST3
+ 173
+ 31
+ 5.58
+Endocrinology and Diabetes Mellitus
+ST3
+ 160
+ 77
+ 2.08
+Gastroenterology
+ST3
+ 224
+ 81
+ 2.77
+Genitourinary Medicine
+ST3
+ 38
+ 33
+ 1.15
+Geriatric Medicine
+ST3
+ 218
+ 152
+ 1.43
+Haematology
+ST3
+ 133
+ 80
+ 1.66
+Immunology
+ST3
+ 11
+ 4
+ 2.75
+Medical Oncology
+ST3
+ 114
+ 54
+ 2.11
+Medical Ophthalmology
+ST3
+ 10
+ 4
+ 2.50
+Neurology
+ST3
+ 155
+ 45
+ 3.44
+Nuclear Medicine
+ST3
+ 10
+ 2
+ 5.00
+Palliative Medicine
+ST3
+ 99
+ 29
+ 3.41
+Rehabilitation Medicine
+ST3
+ 34
+ 21
+ 1.62
+Renal Medicine
+ST3
+ 112
+ 71
+ 1.58
+Respiratory Medicine
+ST3
+ 232
+ 114
+ 2.04
+Rheumatology
+ST3
+ 127
+ 37
+ 3.43
+Sport and Exercise Medicine
+ST3
+ 33
+ 12
+ 2.75
+Cardiothoracic Surgery
+ST3
+ 46
+ 10
+ 4.60
+General Surgery
+ST3
+ 350
+ 236
+ 1.48
+Neurosurgery
+ST3
+ 19
+ 9
+ 2.11
+Ophthalmology
+ST3
+ 32
+ 9
+ 3.56
+Oral and Maxillo Facial Surgery
+ST3
+ 28
+ 23
+ 1.22
+Otolaryngology
+ST3
+ 126
+ 69
+ 1.83
+Paediatric Surgery
+ST3
+ 49
+ 12
+ 4.08
+Plastic Surgery
+ST3
+ 123
+ 33
+ 3.73
+Trauma and Orthopaedic Surgery
+ST3
+ 378
+ 172
+ 2.20
+Urology
+ST3
+ 144
+ 67
+ 2.15
+Child and Adolescent Psychiatry
+ST4
+69
+62
+1.11
+Forensic Psychiatry
+ST4
+46
+45
+1.02
+Forensic and Child and Adolescent Psychiatry
+ST4
+1
+1
+1
+General Psychiatry
+ST4
+188
+175
+1.07
+General Psychiatry and Forensic Psychiatry
+ST4
+8
+3
+2.67
+General Psychiatry and Medical Psychotherapy
+ST4
+24
+7
+3.43
+General and Old Age Psychiatry
+ST4
+67
+47
+1.43
+Medical Psychotherapy
+ST4
+16
+4
+4
+Old Age Psychiatry
+ST4
+51
+58
+0.88
+Psychiatry of Learning Disability
+ST4
+24
+28
+0.86
+Psychiatry of Learning Disability and Child and Adolescent Psychiatry
+ST4
+5
+3
+1.67
+Anaesthetics 
+ST3
+ 495
+ 398
+ 1.24
+Diagnostic Neuropathology 
+ST3
+ 6
+ 5
+ 1.20
+Emergency Medicine 
+ST3
+ 83
+ 34
+ 2.44
+Emergency Medicine 
+ST4
+ 78
+ 61
+ 1.28
+Intensive Care Medicine 
+ST3
+ 231
+ 163
+ 1.42
+Paediatric and Perinatal Pathology 
+ST3
+ 3
+ 7
+ 0.43
+Paediatric Cardiology 
+ST4
+ 43
+ 13
+ 3.31
+Paediatrics 
+ST3
+ 41
+ 27
+ 1.52
+Paediatrics 
+ST4
+ 98
+ 70
+ 1.40

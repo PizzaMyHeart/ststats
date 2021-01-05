@@ -1,0 +1,433 @@
+,specialty,level,applications,posts,ratio,year
+0,"﻿ACCS Emergency Medicine
+","ST1
+"," 675
+"," 340
+"," 1.99
+",2017
+1,"Anaesthetics (including ACCS Anaesthetics)
+","ST1
+"," 1296
+"," 601
+"," 2.16
+",2017
+2,"Cardiothoracic Surgery
+","ST1
+"," 64
+"," 10
+"," 6.40
+",2017
+3,"Clinical Radiology
+","ST1
+"," 1021
+"," 267
+"," 3.82
+",2017
+4,"Community Sexual and Reproductive Health
+","ST1
+"," 99
+"," 4
+"," 24.75
+",2017
+5,"Core Medical Training (including ACCS Acute Medicine)
+","CT1
+"," 2343
+"," 1657
+"," 1.41
+",2017
+6,"Core Psychiatry Training
+","CT1
+"," 623
+"," 495
+"," 1.26
+",2017
+7,"Core Surgical Training
+","CT1
+"," 1608
+"," 629
+"," 2.56
+",2017
+8,"General Practice
+","ST1
+"," 5097
+"," 3857
+"," 1.32
+",2017
+9,"Histopathology
+","ST1
+"," 174
+"," 95
+"," 1.83
+",2017
+10,"Neurosurgery
+","ST1
+"," 152
+"," 29
+"," 5.24
+",2017
+11,"Obstetrics and Gynaecology
+","ST1
+"," 555
+"," 263
+"," 2.11
+",2017
+12,"Ophthalmology
+","ST1
+"," 405
+"," 77
+"," 5.26
+",2017
+13,"Oral and Maxillo Facial Surgery
+","ST1
+"," 20
+"," 8
+"," 2.50
+",2017
+14,"Paediatrics
+","ST1
+"," 580
+"," 437
+"," 1.33
+",2017
+15,"Public Health Medicine
+","ST1
+"," 718
+"," 77
+"," 9.32
+",2017
+16,"Acute Internal Medicine
+","ST3
+"," 245
+"," 125
+"," 1.96
+",2017
+17,"Allergy
+","ST3
+"," 8
+"," 3
+"," 2.67
+",2017
+18,"Audiovestibular Medicine
+","ST3
+"," 9
+"," 1
+"," 9
+",2017
+19,"Cardiology
+","ST3
+"," 361
+"," 136
+"," 2.65
+",2017
+20,"Clinical Genetics
+","ST3
+"," 28
+"," 12
+"," 2.33
+",2017
+21,"Clinical Neurophysiology
+","ST3
+"," 17
+"," 10
+"," 1.70
+",2017
+22,"Clinical Oncology
+","ST3
+"," 115
+"," 72
+"," 1.60
+",2017
+23,"Clinical Pharmacology and Therapeutics
+","ST3
+"," 9
+"," 15
+"," 0.60
+",2017
+24,"Combined Infection Training
+","ST3
+"," 109
+"," 53
+"," 2.06
+",2017
+25,"Dermatology
+","ST3
+"," 173
+"," 31
+"," 5.58
+",2017
+26,"Endocrinology and Diabetes Mellitus
+","ST3
+"," 160
+"," 77
+"," 2.08
+",2017
+27,"Gastroenterology
+","ST3
+"," 224
+"," 81
+"," 2.77
+",2017
+28,"Genitourinary Medicine
+","ST3
+"," 38
+"," 33
+"," 1.15
+",2017
+29,"Geriatric Medicine
+","ST3
+"," 218
+"," 152
+"," 1.43
+",2017
+30,"Haematology
+","ST3
+"," 133
+"," 80
+"," 1.66
+",2017
+31,"Immunology
+","ST3
+"," 11
+"," 4
+"," 2.75
+",2017
+32,"Medical Oncology
+","ST3
+"," 114
+"," 54
+"," 2.11
+",2017
+33,"Medical Ophthalmology
+","ST3
+"," 10
+"," 4
+"," 2.50
+",2017
+34,"Neurology
+","ST3
+"," 155
+"," 45
+"," 3.44
+",2017
+35,"Nuclear Medicine
+","ST3
+"," 10
+"," 2
+"," 5.00
+",2017
+36,"Palliative Medicine
+","ST3
+"," 99
+"," 29
+"," 3.41
+",2017
+37,"Rehabilitation Medicine
+","ST3
+"," 34
+"," 21
+"," 1.62
+",2017
+38,"Renal Medicine
+","ST3
+"," 112
+"," 71
+"," 1.58
+",2017
+39,"Respiratory Medicine
+","ST3
+"," 232
+"," 114
+"," 2.04
+",2017
+40,"Rheumatology
+","ST3
+"," 127
+"," 37
+"," 3.43
+",2017
+41,"Sport and Exercise Medicine
+","ST3
+"," 33
+"," 12
+"," 2.75
+",2017
+42,"Cardiothoracic Surgery
+","ST3
+"," 46
+"," 10
+"," 4.60
+",2017
+43,"General Surgery
+","ST3
+"," 350
+"," 236
+"," 1.48
+",2017
+44,"Neurosurgery
+","ST3
+"," 19
+"," 9
+"," 2.11
+",2017
+45,"Ophthalmology
+","ST3
+"," 32
+"," 9
+"," 3.56
+",2017
+46,"Oral and Maxillo Facial Surgery
+","ST3
+"," 28
+"," 23
+"," 1.22
+",2017
+47,"Otolaryngology
+","ST3
+"," 126
+"," 69
+"," 1.83
+",2017
+48,"Paediatric Surgery
+","ST3
+"," 49
+"," 12
+"," 4.08
+",2017
+49,"Plastic Surgery
+","ST3
+"," 123
+"," 33
+"," 3.73
+",2017
+50,"Trauma and Orthopaedic Surgery
+","ST3
+"," 378
+"," 172
+"," 2.20
+",2017
+51,"Urology
+","ST3
+"," 144
+"," 67
+"," 2.15
+",2017
+52,"Child and Adolescent Psychiatry
+","ST4
+","69
+","62
+","1.11
+",2017
+53,"Forensic Psychiatry
+","ST4
+","46
+","45
+","1.02
+",2017
+54,"Forensic and Child and Adolescent Psychiatry
+","ST4
+","1
+","1
+","1
+",2017
+55,"General Psychiatry
+","ST4
+","188
+","175
+","1.07
+",2017
+56,"General Psychiatry and Forensic Psychiatry
+","ST4
+","8
+","3
+","2.67
+",2017
+57,"General Psychiatry and Medical Psychotherapy
+","ST4
+","24
+","7
+","3.43
+",2017
+58,"General and Old Age Psychiatry
+","ST4
+","67
+","47
+","1.43
+",2017
+59,"Medical Psychotherapy
+","ST4
+","16
+","4
+","4
+",2017
+60,"Old Age Psychiatry
+","ST4
+","51
+","58
+","0.88
+",2017
+61,"Psychiatry of Learning Disability
+","ST4
+","24
+","28
+","0.86
+",2017
+62,"Psychiatry of Learning Disability and Child and Adolescent Psychiatry
+","ST4
+","5
+","3
+","1.67
+",2017
+63,"Anaesthetics 
+","ST3
+"," 495
+"," 398
+"," 1.24
+",2017
+64,"Diagnostic Neuropathology 
+","ST3
+"," 6
+"," 5
+"," 1.20
+",2017
+65,"Emergency Medicine 
+","ST3
+"," 83
+"," 34
+"," 2.44
+",2017
+66,"Emergency Medicine 
+","ST4
+"," 78
+"," 61
+"," 1.28
+",2017
+67,"Intensive Care Medicine 
+","ST3
+"," 231
+"," 163
+"," 1.42
+",2017
+68,"Paediatric and Perinatal Pathology 
+","ST3
+"," 3
+"," 7
+"," 0.43
+",2017
+69,"Paediatric Cardiology 
+","ST4
+"," 43
+"," 13
+"," 3.31
+",2017
+70,"Paediatrics 
+","ST3
+"," 41
+"," 27
+"," 1.52
+",2017
+71,"Paediatrics 
+","ST4
+"," 98
+"," 70
+"," 1.40
+",2017

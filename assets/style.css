@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0 1.5em;
+	background-color: #05192d;
+	color: #ffffff;
+	font-family: sans-serif;
+}
+
+
+#top {
+	display: flex;
+	flex-direction: row;
+	align-items: center
+}
+
+
+a {
+	color: #00ffff;
+}
+
+a:visited {
+	color: #00ffff;
+}
