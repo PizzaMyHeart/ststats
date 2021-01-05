@@ -8,13 +8,18 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import pandas as pd
+import os
 
 app = dash.Dash(__name__,     
 				meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}])
 
 app.title = 'ST Stats'
 
-df = pd.read_csv('data/data.csv').drop('Unnamed: 0', axis=1)
+cwd = os.path.dirname(__file__)
+
+filepath = os.path.join(cwd, 'data/data.csv')
+
+df = pd.read_csv(filepath).drop('Unnamed: 0', axis=1)
 
 colours = {'background': '#05192d'}
 
