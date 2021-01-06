@@ -94,6 +94,7 @@ app.layout = html.Div(children=[
 
     html.Div(id='how-container', children=[
     	html.H3(id='how', children=['How to use:']),
+    	html.P('If on mobile, rotate your screen to landscape mode and swipe on left side of screen to scroll.', style={'fontStyle': 'italic'}),
     	html.P('1. Select the recruitment level (CT/ST1, ST3, ST4) from the dropdown box.'),
     	html.P('2. Double-click or double-tap quickly on the desired specialty in the legend on the right-hand side of the first chart. '),
     	html.P('3. Click or tap once on other specialties you want to add to the chart.'),
