@@ -28,7 +28,7 @@ colours = {'background': '#05192d'}
 
 app.layout = html.Div(children=[
 	html.Div(id='top', children=[
-		html.H1(children='Specialty Training Stats'),
+		html.H1(id='logo', children='Specialty Training Stats'),
 		
 		dcc.Dropdown(
 	    	id='level-dropdown',
@@ -43,15 +43,18 @@ app.layout = html.Div(children=[
 
 	    	style={
 	    		'color': 'black',
-	    		'width': '7em',
-	    		'marginLeft': '2em'
+	    		'width': '7em'
 	    	},
 
 	    	clearable=False),
 
-		html.Div(html.A(href='https://github.com/PizzaMyHeart/ststats', children=['About']), style={'marginLeft': 'auto', 'marginRight': '3em'}),
+		html.Div(id='about',
+			children=[html.A(href='https://github.com/PizzaMyHeart/ststats', target='_blank', 
+				children=['About'], style={'marginLeft': '0.5em'})]),
 
-		html.Div(html.A(href='#how', children=['Help']), style={'marginRight': 0}) 
+		html.Div(id='help',
+			children=[html.A(href='#how', 
+				children=['Help'], style={'marginRight': 0, 'marginLeft': '0.5em'})]) 
 
 		]
 	),
@@ -69,6 +72,7 @@ app.layout = html.Div(children=[
     html.Div(
     	children=[
     	dcc.Graph(
+    		className='suppl',
     		id='one-year-fig',
 	        config={'modeBarButtonsToRemove': ['select2d', 'lasso2d', 'hoverClosestCartesian', 'hoverCompareCartesian', 'toggleSpikelines'],
 	        		'displaylogo': False}
@@ -80,15 +84,15 @@ app.layout = html.Div(children=[
     html.Div(
     	children=[
     	dcc.Graph(
+    		className='suppl',
     		id='all-years-specialty',
 	        config={'modeBarButtonsToRemove': ['select2d', 'lasso2d', 'hoverClosestCartesian', 'hoverCompareCartesian', 'toggleSpikelines'],
 	        		'displaylogo': False}
     	)],
 
-    	style={'display': 'inline-block',
-    			'marginRight': 0}),
+    	style={'display': 'inline-block'}),
 
-    html.Div(children=[
+    html.Div(id='how-container', children=[
     	html.H3(id='how', children=['How to use:']),
     	html.P('1. Select the recruitment level (CT/ST1, ST3, ST4) from the dropdown box.'),
     	html.P('2. Double-click or double-tap quickly on the desired specialty in the legend on the right-hand side of the first chart. '),
@@ -218,7 +222,8 @@ def update_one_year_fig(level, clickData):
 		xaxis_fixedrange=True,
 		yaxis_fixedrange=True,
 		xaxis_title='Year',
-		legend={'orientation': 'h'})
+		legend={'orientation': 'h'},
+		legend_x=0, legend_y=1.1)
 
 	return one_year, all_years
 '''
