@@ -49,7 +49,7 @@ app.layout = html.Div(children=[
 
 	    	clearable=False),
 
-		html.Div(html.A(href='#', children=['About']), style={'marginLeft': 'auto', 'marginRight': '3em'}),
+		html.Div(html.A(href='https://github.com/PizzaMyHeart/ststats', children=['About']), style={'marginLeft': 'auto', 'marginRight': '3em'}),
 
 		html.Div(html.A(href='#how', children=['Help']), style={'marginRight': 0}) 
 
