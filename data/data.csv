@@ -166,8 +166,64 @@
 13,Obstetrics & Gynaecology,1,583,240,2.4,2014
 14,Ophthalmology,1,353,82,4.3,2014
 15,Oral & Maxillofacial Surgery,1,87,4,21.8,2014
-16,Paediatrics,1,814,435,1.9,2014
+16,Paediatrics & Child Health,1,814,435,1.9,2014
 17,Public Health Medicine,1,686,78,8.8,2014
+0,Emergency Medicine,1,1424,361,3.95,2021
+1,Anaesthetics,1,2046,566,3.61,2021
+2,Cardiothoracic Surgery,1,113,6,18.83,2021
+3,Cardiothoracic Surgery,3,47,2,23.5,2021
+4,Clinical Radiology,1,1677,358,4.68,2021
+5,Community Sexual & Reproductive Health,1,167,6,27.83,2021
+6,Core Psychiatry Training,1,1513,506,2.99,2021
+7,Core Surgical Training,1,2528,607,4.16,2021
+8,General Practice,1,7640,4269,1.79,2021
+9,Histopathology,1,272,106,2.57,2021
+10,Internal Medicine Training,1,3590,1567,2.29,2021
+11,Neurosurgery,1,242,15,16.13,2021
+12,Neurosurgery,2,59,1,59.0,2021
+13,Nuclear Medicine,3,16,3,5.33,2021
+14,Obstetrics & Gynaecology,1,877,260,3.37,2021
+15,Ophthalmology,1,605,89,6.8,2021
+16,Ophthalmology,3,82,16,5.13,2021
+17,Oral & Maxillofacial Surgery,1,53,10,5.3,2021
+18,Oral & Maxillio Facial Surgery,3,23,17,1.45,2021
+19,Paediatrics,1,886,423,2.09,2021
+20,Public Health Medicine,1,988,98,10.08,2021
+21,Allergy,3,21,4,5.25,2021
+22,Anaesthetics,3,1056,396,2.67,2021
+23,Audiovestibular Medicine,3,12,4,3.0,2021
+24,Cardiology,3,401,97,4.13,2021
+25,Chemical Pathology,3,16,11,1.45,2021
+26,Clinical Genetics,3,56,18,3.11,2021
+27,Clinical Neurophysiology,3,39,8,4.88,2021
+28,Clinical Oncology,3,203,86,2.36,2021
+29,Combined Infection Training,3,170,53,3.21,2021
+30,Dermatology,3,178,30,5.93,2021
+31,Emergency Medicine,3,237,37,6.41,2021
+32,Emergency Medicine,4,138,72,1.92,2021
+33,General & Vascular Surgery,3,607,136,4.46,2021
+34,Genitourinary Medicine,3,30,38,0.79,2021
+35,Haematology,3,231,66,3.5,2021
+36,Immunology,3,33,6,5.5,2021
+37,Intensive Care Medicine,3,595,203,2.93,2021
+38,Medical Oncology,3,212,79,2.68,2021
+39,Medical Ophthalmology,3,21,4,5.25,2021
+40,Neurology,3,168,51,3.29,2021
+41,Obstetrics & Gynaecology,3,312,22,14.18,2021
+42,Occupational Medicine,3,25,5,5.0,2021
+43,Otolaryngology,3,155,35,4.43,2021
+44,Paediatric & Perinatal Pathology,3,4,4,1.0,2021
+45,Paediatric Cardiology,4,35,6,5.83,2021
+46,Paediatric Surgery,3,80,12,6.67,2021
+47,Paediatrics,3,222,23,9.65,2021
+48,Paediatrics,4,175,27,6.48,2021
+49,Palliative Medicine,3,66,27,2.44,2021
+50,Plastic Surgery,3,211,75,2.81,2021
+51,Psychiatry,4,453,410,1.1,2021
+52,Rehabilitation Medicine,3,42,14,3.0,2021
+53,Sport & Exercise Medicine,3,35,6,5.83,2021
+54,Trauma & Orthopaedic Surgery,3,604,177,3.41,2021
+55,Urology,3,199,51,3.9,2021
 0,Emergency Medicine,1,760,344,2.21,2016
 1,Anaesthetics,1,1263,603,2.09,2016
 2,Cardiothoracic Surgery,1,61,6,10.17,2016
@@ -419,5 +475,5 @@
 11,Neurosurgery,1,183,37,4.9,2013
 12,Obstetrics & Gynaecology,1,591,204,2.9,2013
 13,Ophthalmology,1,323,71,4.5,2013
-14,Paediatrics,1,793,360,2.2,2013
+14,Paediatrics & Child Health,1,793,360,2.2,2013
 15,Public Health Medicine,1,602,70,8.6,2013
