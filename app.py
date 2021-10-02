@@ -144,7 +144,7 @@ def update_ratio_year_fig(level):
 	ratio_year.update_layout(
 		plot_bgcolor=colours['background'],
 		paper_bgcolor=colours['background'],
-		xaxis_fixedrange=True,
+		xaxis_fixedrange=False, # Change this to True to disable zoom
 		yaxis_fixedrange=True)
 
 	ratio_year.update_traces(mode='lines+markers')

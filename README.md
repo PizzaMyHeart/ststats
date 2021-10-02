@@ -31,13 +31,15 @@ This is a hobby project unaffiliated with Health Education England in any way.
 
 1. Select the recruitment level (CT/ST1, ST3, ST4) from the dropdown box.
 
-2. Double-click or double-tap quickly on the desired specialty in the legend on the right-hand side of the first chart.
+2. Double-click or double-tap quickly on a specialty in the legend on the right-hand side of the first chart.
 
-3. Click or tap once on other specialties you want to add to the chart.
+3. Click or tap once on other specialties you want to add to the first chart.
 
-4. Click on data points on the first chart to view specific information for that specialty in the bottom two charts.
+4. Click and drag on the first chart to zoom (to examine a shorter range of years).
 
-5. Hover over bars and lines to view more information.
+5. Click on data points on the first chart to view specific information for that specialty in the bottom two charts.
+
+6. Hover over bars and lines to view more information.
 
 
 ## Packages
