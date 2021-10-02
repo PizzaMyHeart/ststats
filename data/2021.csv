@@ -1,0 +1,57 @@
+,specialty,level,applications,posts,ratio,year
+0,ACCS Emergency Medicine,CT1/ST1,1424,361,3.95,2021
+1,Anaesthetics,CT1,2046,566,3.61,2021
+2,Cardiothoracic Surgery,ST1,113,6,18.83,2021
+3,Cardiothoracic Surgery,ST3,47,2,23.50,2021
+4,Clinical Radiology,ST1,1677,358,4.68,2021
+5,Community Sexual and Reproductive Health,ST1,167,6,27.83,2021
+6,Core Psychiatry Training,CT1,1513,506,2.99,2021
+7,Core Surgical Training,CT1,2528,607,4.16,2021
+8,General Practice,ST1,7640,4269,1.79,2021
+9,Histopathology,ST1,272,106,2.57,2021
+10,Internal Medicine Training,CT1,3590,1567,2.29,2021
+11,Neurosurgery,ST1,242,15,16.13,2021
+12,Neurosurgery,ST2,59,1,59.00,2021
+13,Nuclear Medicine,ST3,16,3,5.33,2021
+14,Obstetrics and Gynaecology,ST1,877,260,3.37,2021
+15,Ophthalmology,ST1,605,89,6.80,2021
+16,Ophthalmology,ST3,82,16,5.13,2021
+17,Oral and Maxillo Facial Surgery,ST1,53,10,5.30,2021
+18,Oral and Maxillio Facial Surgery,ST3,23,17,1.45,2021
+19,Paediatrics,ST1,886,423,2.09,2021
+20,Public Health Medicine,ST1,988,98,10.08,2021
+21,Allergy,ST3,21,4,5.25,2021
+22,Anaesthetics,ST3,1056,396,2.67,2021
+23,Audiovestibular Medicine,ST3,12,4,3.00,2021
+24,Cardiology,ST3,401,97,4.13,2021
+25,Chemical Pathology,ST3,16,11,1.45,2021
+26,Clinical Genetics,ST3,56,18,3.11,2021
+27,Clinical Neurophysiology,ST3,39,8,4.88,2021
+28,Clinical Oncology,ST3,203,86,2.36,2021
+29,Combined Infection Training,ST3,170,53,3.21,2021
+30,Dermatology,ST3,178,30,5.93,2021
+31,Emergency Medicine,ST3,237,37,6.41,2021
+32,Emergency Medicine,ST4,138,72,1.92,2021
+33,General and Vascular Surgery,ST3,607,136,4.46,2021
+34,Genitourinary Medicine,ST3,30,38,0.79,2021
+35,Haematology,ST3,231,66,3.50,2021
+36,Immunology,ST3,33,6,5.50,2021
+37,Intensive Care Medicine,ST3,595,203,2.93,2021
+38,Medical Oncology,ST3,212,79,2.68,2021
+39,Medical Ophthalmology,ST3,21,4,5.25,2021
+40,Neurology,ST3,168,51,3.29,2021
+41,Obstetrics and Gynaecology,ST3,312,22,14.18,2021
+42,Occupational Medicine,ST3,25,5,5.00,2021
+43,Otolaryngology,ST3,155,35,4.43,2021
+44,Paediatric and Perinatal Pathology,ST3,4,4,1.00,2021
+45,Paediatric Cardiology,ST4,35,6,5.83,2021
+46,Paediatric Surgery,ST3,80,12,6.67,2021
+47,Paediatrics,ST3,222,23,9.65,2021
+48,Paediatrics,ST4,175,27,6.48,2021
+49,Palliative Medicine,ST3,66,27,2.44,2021
+50,Plastic Surgery,ST3,211,75,2.81,2021
+51,Psychiatry,ST4,453,410,1.10,2021
+52,Rehabilitation Medicine,ST3,42,14,3.00,2021
+53,Sport and Exercise Medicine,ST3,35,6,5.83,2021
+54,Trauma and Orthopaedic Surgery,ST3,604,177,3.41,2021
+55,Urology,ST3,199,51,3.90,2021

@@ -1,0 +1,280 @@
+ACCS Emergency Medicine
+CT1/ST1
+1424
+361
+3.95 
+Anaesthetics
+CT1
+2046
+566
+3.61 
+Cardiothoracic Surgery
+ST1
+113
+6
+18.83 
+Cardiothoracic Surgery
+ST3
+47
+2
+23.50 
+Clinical Radiology
+ST1
+1677
+358
+4.68 
+Community Sexual and Reproductive Health
+ST1 
+167
+6
+27.83 
+Core Psychiatry Training
+CT1
+1513
+506
+2.99 
+Core Surgical Training
+CT1
+2528
+607
+4.16 
+General Practice
+ST1
+7640
+4269
+1.79 
+Histopathology
+ST1
+272
+106
+2.57 
+Internal Medicine Training
+CT1
+3590
+1567
+2.29 
+Neurosurgery
+ST1
+242
+15
+16.13 
+Neurosurgery
+ST2
+59
+1
+59.00 
+Nuclear Medicine
+ST3
+16
+3
+5.33 
+Obstetrics and Gynaecology
+ST1
+877
+260
+3.37 
+Ophthalmology
+ST1
+605
+89
+6.80 
+Ophthalmology
+ST3
+82
+16
+5.13 
+Oral and Maxillo Facial Surgery
+ST1
+53
+10
+5.30 
+Oral and Maxillio Facial Surgery
+ST3
+23
+17
+1.45 
+Paediatrics
+ST1
+886
+423
+2.09 
+Public Health Medicine
+ST1
+988
+98
+10.08
+Allergy
+ST3
+21
+4
+5.25 
+Anaesthetics
+ST3
+1056
+396
+2.67 
+Audiovestibular Medicine
+ST3
+12
+4
+3.00 
+Cardiology
+ST3
+401
+97
+4.13 
+Chemical Pathology
+ST3
+16
+11
+1.45 
+Clinical Genetics
+ST3
+56
+18
+3.11 
+Clinical Neurophysiology
+ST3
+39
+8
+4.88 
+Clinical Oncology
+ST3
+203
+86
+2.36 
+Combined Infection Training
+ST3
+170
+53
+3.21 
+Dermatology
+ST3
+178
+30
+5.93 
+Emergency Medicine
+ST3
+237
+37
+6.41 
+Emergency Medicine
+ST4
+138
+72
+1.92 
+General and Vascular Surgery
+ST3
+607
+136
+4.46 
+Genitourinary Medicine
+ST3
+30
+38
+0.79 
+Haematology
+ST3
+231
+66
+3.50 
+Immunology
+ST3
+33
+6
+5.50 
+Intensive Care Medicine
+ST3
+595
+203
+2.93 
+Medical Oncology
+ST3
+212
+79
+2.68 
+Medical Ophthalmology
+ST3
+21
+4
+5.25 
+Neurology
+ST3
+168
+51
+3.29
+Obstetrics and Gynaecology
+ST3
+312
+22
+14.18 
+Occupational Medicine
+ST3
+25
+5
+5.00 
+Otolaryngology
+ST3
+155
+35
+4.43 
+Paediatric and Perinatal Pathology
+ST3
+4
+4
+1.00 
+Paediatric Cardiology
+ST4
+35
+6
+5.83 
+Paediatric Surgery
+ST3
+80
+12 
+6.67 
+Paediatrics
+ST3
+222
+23
+9.65 
+Paediatrics
+ST4
+175
+27
+6.48 
+Palliative Medicine
+ST3
+66
+27
+2.44 
+Plastic Surgery
+ST3
+211
+75
+2.81 
+Psychiatry
+ST4
+453
+410
+1.10 
+Rehabilitation Medicine
+ST3
+42
+14
+3.00 
+Sport and Exercise Medicine
+ST3
+35
+6
+5.83 
+Trauma and Orthopaedic Surgery
+ST3
+604
+177
+3.41 
+Urology
+ST3
+199
+51
+3.90 
