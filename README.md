@@ -6,7 +6,7 @@ ST Stats is a dashboard that illustrates the competitiveness of specialty traini
 
 ## Data sources
 
-The data is taken from Health Education England's specialty training [website](https://specialtytraining.hee.nhs.uk/). HEE has published the competition ratios for specialty training posts every year since 2013. Unfortunately, this data is in the form of PDF files, which is fine for viewing them on their own, but an awful headache to use for any form of analysis. The [data folder](./data) in this repo contains CSV file version of each year's competition ratio data, as well as a CSV file (`data.csv`) containing one unified, cleaned table of all the data. 
+The data are taken from Health Education England's specialty training [website](https://specialtytraining.hee.nhs.uk/). HEE has published the competition ratios for specialty training posts every year since 2013. Unfortunately, this takes the form of PDF files, which are fine for viewing individually, but an awful headache to use for any form of analysis. The [data folder](./data) in this repo contains CSV file version of each year's competition ratio data, as well as a CSV file (`data.csv`) containing one unified, cleaned table of all the data. 
 
 The original PDF sources can be found [here](https://specialtytraining.hee.nhs.uk/Competition-Ratios) and [here](https://specialtytraining.hee.nhs.uk/Resources-Bank) (because why would you keep them all in one place?).
 
