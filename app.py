@@ -35,6 +35,7 @@ app.layout = html.Div(children=[
 
 	    	options=[
 	    		{'label': 'CT1/ST1', 'value': 1},
+				{'label': 'ST2', 'value': 2},
 	    		{'label': 'ST3', 'value': 3},
 	    		{'label': 'ST4', 'value': 4}
 	    	],
@@ -135,7 +136,7 @@ def update_ratio_year_fig(level):
 	ratio_year = px.line(filtered_df, 
 						x='year', y='ratio', 
 						hover_name='specialty',
-						title='Competition Ratios 2013 - 2020', 
+						title='Competition Ratios 2013 - 2021', 
 						labels={'year': 'Year', 'ratio': 'Ratio', 'specialty': 'Specialty'},
 						color='specialty', 
 						template='plotly_dark')
@@ -161,14 +162,14 @@ def update_one_year_fig(level, clickData):
 	'''
 	specialty = ''
 	clrs = []
-	# Default year is 2020 on initialisation
+	# Default year is 2021 on initialisation
 	if clickData:
 		#print(clickData)
 		year = clickData['points'][0]['x']
 		specialty = clickData['points'][0]['hovertext'] 
 
 	else:
-		year = 2020
+		year = 2021
 	
 	filtered_df_year = df[(df['level']==level) & (df['year']==year)].sort_values(by='ratio')
 
